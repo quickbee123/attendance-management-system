@@ -1,7 +1,7 @@
 /* general */
 
 section{
-    height: 80vh;
+    min-height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,20 +19,6 @@ i{
 /* home */
 
 
-#home {
-    padding-top: 3em;
-    position: relative
-}
-
-#home div {
-    display: inline-table
-}
-
-#home-info {
-    width: 50%;
-    float: left;
-    margin-top: 5.8%
-}
 
 #home-info h1 {
     font-size: 50px;
